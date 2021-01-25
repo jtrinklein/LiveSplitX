@@ -1,0 +1,4 @@
+﻿
+namespace LiveSplitX.Skia.Gtk
+{
+}
